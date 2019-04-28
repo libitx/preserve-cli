@@ -1,6 +1,6 @@
 {
   "name": "preserve-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Deploy HTML pages, static assets and entire websites to the Bitcoin blockchain.",
   "main": "lib/index.js",
   "bin": {
@@ -11,13 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "bsv": "^0.26.4",
+    "bsv": "^0.26.5",
     "chalk": "^2.4.2",
     "cli-table2": "^0.2.0",
-    "datapay": "^0.0.12",
     "dotenv": "^7.0.0",
     "eventsource": "^1.0.7",
     "glob": "^7.1.3",
+    "inquirer": "^6.3.1",
     "mime-types": "^2.1.22",
     "node-forge": "^0.8.2",
     "pretty-bytes": "^5.1.0",
