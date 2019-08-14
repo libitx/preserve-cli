@@ -1,6 +1,6 @@
 {
   "name": "preserve-cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Deploy HTML pages, static assets and entire websites to the Bitcoin blockchain.",
   "main": "lib/index.js",
   "bin": {
